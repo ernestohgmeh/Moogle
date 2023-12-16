@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "FHXI+jVwBtzF0QQlU/nPbPTHObkafRT8my3ED1GrfJvZ75XcoZdlHi/qRi2bXiEsAfYeCrpVoED1B6oUI95BLw==",
+  "success": false,
+  "projectFilePath": "D:\\Escuela\\First project moogle-2021\\MoogleEngine\\MoogleEngine.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    }
+  ]
+}
